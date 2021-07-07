@@ -1,0 +1,124 @@
+html, body {
+    margin: 0;
+    padding: 0;
+	
+    border: 0;
+	line-height:1.25;
+	font-size:1rem;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.navigation {
+	padding-left:17%;
+	padding-top:15px;
+	padding-bottom:15px;
+	background-color: #CDCDCD;
+	
+}
+footer .navigation {
+	background-color: #505050;
+	
+}
+.nav-button {
+	padding:3px;
+	padding-top:15px;
+	padding-bottom:15px;
+	text-decoration:none;
+	
+}
+
+.nav-button:hover {
+	padding:3px;
+	padding-top:15px;
+	padding-bottom:15px;
+	text-decoration:none;
+	color:white;
+}
+.mainBit {
+	padding-left:17%;
+	padding-right:17%;
+	padding-top:5px;
+	padding-bottom:2%;
+	background-color:#ebebe0;
+	
+}
+.linktext:hover {color:#00b300}
+.linktext{
+	text-decoration:none;
+}
+	
+#biography{
+	padding-top:25px;
+	width:66%px;
+}
+h1 {
+	color:#003300;
+	font-size:2rem;
+	margin:0;
+}
+#name{
+	padding-left:0%;
+	font-size:5rem;
+	color:#00b300;
+	margin-top:0;
+	margin-bottom:0;
+	
+}
+
+#name::first-letter {
+   margin-left: -0.09em;
+}
+
+#department {
+	padding-left:0%;
+	text-decoration:none;
+	color:#003300;
+	margin-top:0;
+	margin-bottom:0;
+}
+#department:hover {color:#00b300}
+
+#school {
+	padding-left:0px;
+	text-decoration:none;
+	color:#003300;
+	margin-top:0;
+	margin-bottom:0;
+}
+#school:hover {color:#00b300}
+
+
+#sfu-logo {
+	width:120px;
+	height:auto;
+	float: right;
+	padding-right: 15%;
+}
+
+
+#email {
+	float:right;
+	padding-right:22%;
+	width:120px;
+	height:auto;
+	overflow:hidden;
+}
+
+#nature {
+	width:100%;
+	height:auto;
+}
+
+#youtube-icon,#github-icon {
+	color:white;
+	padding-left:3px;
+}
+
+
+
+
+
+
+
+
